@@ -11,8 +11,4 @@ Este projeto visa automatizar a criação de usuários em um servidor Linux por 
 - **`docs/`**: Documentação relacionada ao projeto.
   - `README.md`: Documentação principal do projeto.
 
-## Uso
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-linux-iac.git
-   cd projeto-linux-iac
+
