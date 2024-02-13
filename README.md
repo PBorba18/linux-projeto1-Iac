@@ -5,7 +5,7 @@ Este projeto visa automatizar a criação de usuários em um servidor Linux por 
 
 ## Estrutura do Projeto
 - **`scripts/`**: Contém os scripts necessários para a criação de usuários.
-  - `create_users.sh`: Script principal para a criação de usuários.
+  - `criaruser.sh`: Script principal para a criação de usuários.
   - `utils.sh`: Funções utilitárias compartilhadas.
   
 - **`docs/`**: Documentação relacionada ao projeto.
